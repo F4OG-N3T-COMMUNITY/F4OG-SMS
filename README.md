@@ -28,13 +28,13 @@ Sms Bombing Command
 
 - `pip install bs4`
 
-- `rm -rf `
+- `rm -rf F4OG-SMS`
 
-- `git clone `
+- `git clonehttps://github.com/F4OG-N3T-COMMUNITY/F4OG-SMS `
 
-- `cd `
+- `cd F4OG-SMS`
 
-- `python `
+- `python F4OG-N3T_n3ob.py`
 
 # Thank You For Your Support ❤️😘
 
