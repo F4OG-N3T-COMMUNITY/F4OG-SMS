@@ -30,11 +30,11 @@ Sms Bombing Command
 
 - `rm -rf F4OG-SMS`
 
-- `git clonehttps://github.com/F4OG-N3T-COMMUNITY/F4OG-SMS `
+- `git clone https://github.com/F4OG-N3T-COMMUNITY/F4OG-SMS `
 
 - `cd F4OG-SMS`
 
-- `python F4OG-N3T_n3ob.py`
+- `python F4OG-SMS_n3ob.py`
 
 # Thank You For Your Support ❤️😘
 
